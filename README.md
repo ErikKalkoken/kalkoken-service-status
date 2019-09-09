@@ -1,0 +1,11 @@
+# Service status
+
+This is an overview of the service status for all web apps, APIs and tools provided by Erik Kalkoken.
+
+Status | Name | Description | Uptime 30 days | Link to details
+-- | -- | -- | -- | --
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m783377950-d030d9c007b33bdb219ac4e5?label="") | [eve-shields](https://github.com/ErikKalkoken/eve-shields) | Web service for creating Eve Online related shields with shields.io | ![Uptime Robot ratio](https://img.shields.io/uptimerobot/ratio/m783377950-d030d9c007b33bdb219ac4e5?label="") | [Details](https://stats.uptimerobot.com/voNrrI7ooP)
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m781028873-0fb2c82ffbddf5b8f7ffd9c8?label="") | [easypoll](https://www.kalkoken.org/apps/easypoll/web/) | Easy Poll lets you run anonymous polls on Slack | ![Uptime Robot ratio](https://img.shields.io/uptimerobot/ratio/m781028873-0fb2c82ffbddf5b8f7ffd9c8?label="") | [Details](https://stats.uptimerobot.com/7Lj22I4r8)
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m781159099-708ed214516fb0fe2d01d26f?label="") | [rafflebot](https://www.kalkoken.org/apps/rafflebot/web.php) | This app adds the rafflebot to your Slack which enables you to create and run raffles | ![Uptime Robot ratio](https://img.shields.io/uptimerobot/ratio/m781159099-708ed214516fb0fe2d01d26f?label="") | [Details](https://stats.uptimerobot.com/kZyNNTzVz)
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m777985899-57148a873a102915be6dead1?label="") | [evetools](https://www.kalkoken.org/apps/evetools_web/evetools.php) | This app adds the rafflebot to your Slack which enables you to create and run raffles | ![Uptime Robot ratio](https://img.shields.io/uptimerobot/ratio/m777985899-57148a873a102915be6dead1?label="") | [Details](https://stats.uptimerobot.com/kZyNNTzVz)
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m783281945-a1a1825a977a083e82510e68?label="") | [www.0-cal.net](https://www.0-cal.net/) | Website for the Eve Online low-sec alliance Same Great Taste | ![Uptime Robot ratio](https://img.shields.io/uptimerobot/ratio/m783281945-a1a1825a977a083e82510e68?label="") | [Details](https://stats.uptimerobot.com/zKRyyCMPmn)
